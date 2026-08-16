@@ -1,58 +1,202 @@
-# Arathana R K — Portfolio
+# Arathana R K — Developer Portfolio
 
-A premium, responsive personal portfolio for Arathana R K — AI & Data Science student,
-Java developer in the making. Built with plain HTML, CSS and JavaScript. No frameworks,
-no build step, no dependencies.
+> **Aspiring Software Engineer | Java Developer | Backend & AI Enthusiast**
 
-## Project structure
+A modern, responsive personal portfolio website showcasing my **projects, technical skills, certifications, learning journey, and professional profile**.
 
+The portfolio is designed to provide a clean overview of my development journey and the technologies I work with, with a focus on **Java, backend development, Spring Boot, and AI/Data Science**.
+
+---
+
+## 🌐 Live Portfolio
+
+**Portfolio:** `https://arathana29.github.io/Portfolio/`
+
+**GitHub:** `https://github.com/arathana29`
+
+**LinkedIn:** `https://www.linkedin.com/in/arathana29`
+
+---
+
+## ✨ Features
+
+* Responsive and mobile-friendly design
+* Modern dark-themed developer interface
+* Interactive animations and visual effects
+* About Me section
+* Technical skills showcase
+* Project showcase
+* Certifications section
+* Learning journey timeline
+* GitHub activity section
+* Resume access
+* Social and professional links
+* Custom 404 error page
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Design & UI
+
+* Responsive Web Design
+* CSS Animations
+* Modern UI/UX principles
+* Interactive components
+
+### Development Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+
+## 📂 Project Structure
+
+```text
+Arathana-Portfolio/
+│
+├── assets/
+│   ├── images/
+│   └── resume/
+│
+├── .gitignore
+├── .nojekyll
+├── 404.html
+├── index.html
+├── README.md
+├── script.js
+└── style.css
 ```
-├── index.html          # the whole page (all sections)
-├── style.css           # design system + all styles
-├── script.js           # typewriter, animations, menu, form
-└── assets/
-    ├── images/         # profile.jpg, favicon, project images
-    └── resume/         # Resume.pdf
-```
 
-## Run locally
+---
 
-Just open `index.html` in a browser — the site is fully static.
+## 🚀 Getting Started
 
-For a live-reload-style server (recommended), run any static server from this folder,
-for example:
+To run the portfolio locally:
+
+### 1. Clone the repository
 
 ```bash
-# Python
-python -m http.server 8000
+git clone https://github.com/arathana29/Portfolio.git
 ```
 
-then visit `http://localhost:8000`.
+### 2. Navigate to the project
 
-## Deploying
+```bash
+cd Portfolio
+```
 
-### Option 1 — GitHub Pages (free, 5 minutes)
+### 3. Open the website
 
-1. Create a GitHub repository named `portfolio` and push this folder to it.
-2. Go to the repo → **Settings** → **Pages**.
-3. Under **Branch**, choose `main` and folder `/ (root)`, then **Save**.
-4. Wait ~1 minute. Your site is live at:
-   **https://arathana29.github.io/portfolio/**
+Open `index.html` directly in your browser, or use the **Live Server** extension in Visual Studio Code.
 
-The `.nojekyll` file in this repo tells GitHub Pages to serve the site as-is.
+---
 
-The Open Graph `og:url` in `index.html` is already set to this address.
+## 👨‍💻 About Me
 
-### Option 2 — Netlify (free, drag-and-drop)
+I'm **Arathana R K**, a B.Tech student specializing in **Artificial Intelligence & Data Science**, with a growing focus on software engineering and backend development.
 
-1. Go to [app.netlify.com/drop](https://app.netlify.com/drop).
-2. Drag this project folder onto the page.
-3. Done — Netlify gives you a URL instantly. You can connect your GitHub repo
-   later for auto-deploys on every push.
+I'm currently strengthening my skills in:
 
-### Before you go live
+* Java
+* Advanced Java
+* Spring Boot
+* REST API Development
+* Backend Architecture
+* SQL & Databases
+* Machine Learning
+* Data Science
 
-- The resume file (`assets/resume/Resume.pdf`) must be a real PDF — replace the
-  placeholder if it isn't already.
-- Swap `project1.jpg` / `project2.jpg` in `assets/images/` if you want real
-  screenshots in the project cards (the cards currently use elegant gradients).
+My goal is to build **scalable, practical, and intelligent software solutions** while continuously improving my problem-solving and engineering skills.
+
+---
+
+## 📌 Featured Projects
+
+### 🏨 Hotel Booking System
+
+A backend-oriented hotel booking application designed to handle room availability, reservations, and booking operations.
+
+**Technologies:** Java, Spring Boot, REST APIs, Database
+
+### 🎓 Student Management System
+
+A Python-based application for managing student records with CRUD operations and persistent JSON-based storage.
+
+**Technologies:** Python, JSON, File Handling, Exception Handling
+
+---
+
+## 🎓 Education
+
+**B.Tech — Artificial Intelligence & Data Science**
+
+V.S.B. College of Engineering Technical Campus
+Coimbatore, India
+
+**Expected Graduation:** 2028
+
+---
+
+## 📜 Certifications
+
+* Java Bootcamp — Udemy
+* Python Course — Scaler Topics
+* Python 101 for Data Science — Cognitive Class
+
+---
+
+## 📈 Current Focus
+
+```text
+Java
+  ↓
+Advanced Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+Backend Architecture
+  ↓
+Databases & System Design
+  ↓
+Scalable Backend Applications
+```
+
+Alongside backend development, I continue exploring **Artificial Intelligence, Machine Learning, and Data Science**.
+
+---
+
+## 🎯 Career Goal
+
+My current goal is to grow as a **Software Engineer / Java Backend Developer**, gain industry experience through internships, and eventually work on production-level systems that combine strong software engineering with intelligent technologies.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **internship opportunities, collaborations, and interesting software projects**.
+
+* **GitHub:** https://github.com/arathana29
+* **LinkedIn:** https://www.linkedin.com/in/arathana29
+* **Email:** [arathanark29@gmail.com](mailto:arathanark29@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you find this portfolio interesting, consider giving the repository a ⭐.
+
+---
+
+### Built with 💻 by Arathana R K
+
